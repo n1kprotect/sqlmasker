@@ -1,4 +1,11 @@
+
+
 # SqlMasker v. 1.0 [BETTA 2022]
+
+**_установка_**
+
+_Клонируем репозиторий_: `git clone https://github.com/n1kprotect/sqlmasker`
+_Достаем файл sqlmasker.py и переносим в основную папку. Готово! _
 
 **_инициализация движка_**
 
